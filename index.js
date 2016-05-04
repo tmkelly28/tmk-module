@@ -5,4 +5,5 @@ module.exports = function () {
   console.log('With a change');
   console.log('From a consumer');
   console.log('Another change!');
+  console.log('Change 3');
 };

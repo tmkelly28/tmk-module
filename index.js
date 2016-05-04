@@ -7,4 +7,5 @@ module.exports = function () {
   console.log('Another change!');
   console.log('Change 3');
   console.log('Change 6');
+  console.log('Change X');
 };

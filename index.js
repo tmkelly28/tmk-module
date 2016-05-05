@@ -8,4 +8,5 @@ module.exports = function () {
   console.log('Change 3');
   console.log('Change 6');
   console.log('Change X');
+  console.log('Change Y');
 };
